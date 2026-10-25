@@ -1,0 +1,1 @@
+# squadchat-download
